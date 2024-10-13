@@ -3,3 +3,7 @@
 # Homework 2: Neural Network in Numpy
 
 See instructions.pdf.
+
+# files
+- overfit (part h) is in numpy-nn-overfit notebook
+- the other parts are in numpy-nn-part1
