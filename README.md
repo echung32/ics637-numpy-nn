@@ -7,3 +7,4 @@ See instructions.pdf.
 # files
 - overfit (part h) is in numpy-nn-overfit notebook
 - the other parts are in numpy-nn-part1
+- loaded mnist in kaggle-mnist-load https://www.kaggle.com/datasets/hojjatk/mnist-dataset
